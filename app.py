@@ -6,6 +6,7 @@ full_node = 'https://api.trongrid.io'
 solidity_node = 'https://api.trongrid.io'
 event_server = 'https://api.trongrid.io'
 
+#test mnemonic "medal combine wash impulse cool wet try raise pulse list butter spend"
 private_key = "5decdf9cf72f5fd2e3a25543143f49b08f5064233da711a523012541c5b71477"
 
 tron = Tron(full_node=full_node,
